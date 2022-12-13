@@ -1,2 +1,2 @@
 # Programovani
-# Taste some democracy[
+# Taste some democracy
